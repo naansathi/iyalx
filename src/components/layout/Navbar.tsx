@@ -23,7 +23,7 @@ const Navbar = () => {
   }, [location.pathname]);
 
   const navLinks = [
-    { name: 'Home', path: '/iyalx' },
+    { name: 'Home', path: '/' },
     { name: 'Courses', path: '/courses' },
     { name: 'Internships', path: '/internships' },
     { name: 'Services', path: '/services' },
@@ -39,7 +39,7 @@ const Navbar = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between items-center h-20">
           {/* Logo */}
-          <Link to="/iyalx" className="flex items-center gap-2">
+          <Link to="/" className="flex items-center gap-2">
             <div className="w-10 h-10 rounded-xl bg-gradient-to-br from-primary to-secondary flex items-center justify-center text-white font-bold text-xl shadow-lg shadow-primary/30">
               IX
             </div>

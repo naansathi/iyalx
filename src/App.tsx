@@ -23,7 +23,7 @@ function App() {
           <WhatsAppButton />
           <main className="flex-grow">
             <Routes>
-              <Route path="/iyalx" element={<Home />} />
+              <Route path="/" element={<Home />} />
               <Route path="/about" element={<AboutUs />} />
               <Route path="/courses" element={<Courses />} />
               <Route path="/courses/:id" element={<CourseDetails />} />
