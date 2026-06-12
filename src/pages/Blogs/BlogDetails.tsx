@@ -24,7 +24,7 @@ const BlogDetails = () => {
   return (
     <>
       <Helmet>
-        <title>{blog.title} | IyalX</title>
+        <title>{blog.title} | Iyal</title>
         <meta name="description" content={blog.excerpt} />
       </Helmet>
 

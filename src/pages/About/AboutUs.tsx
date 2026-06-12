@@ -31,8 +31,8 @@ const AboutUs = () => {
   return (
     <>
       <Helmet>
-        <title>About Us | IyalX</title>
-        <meta name="description" content="Learn more about IyalX, our mission, vision, and the team behind our world-class software training." />
+        <title>About Us | Iyal</title>
+        <meta name="description" content="Learn more about Iyal, our mission, vision, and the team behind our world-class software training." />
       </Helmet>
 
       <div className="pt-24 pb-16 min-h-screen">
@@ -48,7 +48,7 @@ const AboutUs = () => {
               Empowering the Next Generation of <span className="text-gradient">Developers</span>
             </h1>
             <p className="text-lg text-gray-400">
-              At IyalX, we believe that quality tech education should be accessible, practical, and aligned with industry standards. We transform ambitious learners into professional software engineers.
+              At Iyal, we believe that quality tech education should be accessible, practical, and aligned with industry standards. We transform ambitious learners into professional software engineers.
             </p>
           </motion.div>
         </div>
@@ -88,7 +88,7 @@ const AboutUs = () => {
               <h2 className="text-3xl md:text-4xl font-bold font-poppins mb-6">Our Story</h2>
               <div className="space-y-4 text-gray-400">
                 <p>
-                  Founded in 2020, IyalX started with a simple mission: to bridge the gap between academic learning and industry expectations. We noticed that many graduates lacked the hands-on experience required by top tech companies.
+                  Founded in 2020, Iyal started with a simple mission: to bridge the gap between academic learning and industry expectations. We noticed that many graduates lacked the hands-on experience required by top tech companies.
                 </p>
                 <p>
                   Today, we've grown into a comprehensive software training and development company. We don't just teach code; we build real products. Our students work on live projects, interact with industry mentors, and graduate with a portfolio that speaks for itself.

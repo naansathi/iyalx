@@ -23,7 +23,7 @@ const InternshipDetails = () => {
   return (
     <>
       <Helmet>
-        <title>{internship.title} Internship | IyalX</title>
+        <title>{internship.title} Internship | Iyal</title>
         <meta name="description" content={internship.description} />
       </Helmet>
 
@@ -132,7 +132,7 @@ const InternshipDetails = () => {
             {/* Right Column - Application Widget */}
             <div className="space-y-8">
               <div className="glass rounded-2xl p-6 border-t-2 border-primary/50 sticky top-28">
-                <h3 className="text-xl font-bold text-white mb-4 font-poppins">Why Intern with IyalX?</h3>
+                <h3 className="text-xl font-bold text-white mb-4 font-poppins">Why Intern with Iyal?</h3>
                 <p className="text-gray-400 text-sm mb-6">
                   We don't just assign tasks; we mentor you. Join a culture of innovation and kickstart your career.
                 </p>

@@ -8,8 +8,8 @@ const Internships = () => {
   return (
     <>
       <Helmet>
-        <title>Internship Programs | IyalX</title>
-        <meta name="description" content="Kickstart your career with IyalX internship programs in web development, data science, and UI/UX design." />
+        <title>Internship Programs | Iyal</title>
+        <meta name="description" content="Kickstart your career with Iyal internship programs in web development, data science, and UI/UX design." />
       </Helmet>
 
       <div className="pt-24 pb-16 min-h-screen">

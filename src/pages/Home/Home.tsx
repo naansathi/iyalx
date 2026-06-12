@@ -7,7 +7,7 @@ const Home = () => {
   return (
     <>
       <Helmet>
-        <title>IyalX | Build Your Tech Career</title>
+        <title>Iyal | Build Your Tech Career</title>
         <meta name="description" content="Premium software training and development company. Learn MERN Stack, Java, Python, Data Science with real-time projects and placement support." />
       </Helmet>
       

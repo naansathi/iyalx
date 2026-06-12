@@ -26,8 +26,8 @@ const Contact = () => {
   return (
     <>
       <Helmet>
-        <title>Contact Us | IyalX</title>
-        <meta name="description" content="Get in touch with IyalX for course inquiries, corporate training, and software development services." />
+        <title>Contact Us | Iyal</title>
+        <meta name="description" content="Get in touch with Iyal for course inquiries, corporate training, and software development services." />
       </Helmet>
 
       <div className="pt-24 pb-16 min-h-screen">
@@ -90,8 +90,8 @@ const Contact = () => {
                   </div>
                   <div>
                     <h3 className="text-xl font-bold text-white mb-2 font-poppins">Email Address</h3>
-                    <p className="text-gray-400">hello@iyalx.com</p>
-                    <p className="text-gray-400">support@iyalx.com</p>
+                    <p className="text-gray-400">hello@iyal.com</p>
+                    <p className="text-gray-400">support@iyal.com</p>
                   </div>
                 </div>
               </div>

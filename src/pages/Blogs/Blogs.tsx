@@ -8,8 +8,8 @@ const Blogs = () => {
   return (
     <>
       <Helmet>
-        <title>Blog | IyalX</title>
-        <meta name="description" content="Read the latest insights, tutorials, and news from the IyalX team on software development, tech careers, and design." />
+        <title>Blog | Iyal</title>
+        <meta name="description" content="Read the latest insights, tutorials, and news from the Iyal team on software development, tech careers, and design." />
       </Helmet>
 
       <div className="pt-24 pb-16 min-h-screen">

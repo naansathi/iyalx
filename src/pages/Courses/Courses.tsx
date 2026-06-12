@@ -21,7 +21,7 @@ const Courses = () => {
   return (
     <>
       <Helmet>
-        <title>Courses | IyalX</title>
+        <title>Courses | Iyal</title>
         <meta name="description" content="Browse our premium software training courses in Full Stack Development, Data Science, AI, and more." />
       </Helmet>
 

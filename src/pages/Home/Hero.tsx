@@ -34,7 +34,7 @@ const Hero = () => {
           >
             Build Your <br />
             <span className="text-gradient">Tech Career</span> <br />
-            with IyalX
+            with Iyal
           </motion.h1>
 
           <motion.p

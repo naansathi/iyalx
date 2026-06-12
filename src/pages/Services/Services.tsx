@@ -45,8 +45,8 @@ const Services = () => {
   return (
     <>
       <Helmet>
-        <title>Our Services | IyalX</title>
-        <meta name="description" content="Explore IyalX services including web development, mobile apps, corporate training, and digital marketing." />
+        <title>Our Services | Iyal</title>
+        <meta name="description" content="Explore Iyal services including web development, mobile apps, corporate training, and digital marketing." />
       </Helmet>
 
       <div className="pt-24 pb-16 min-h-screen">

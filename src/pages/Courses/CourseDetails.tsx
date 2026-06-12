@@ -23,7 +23,7 @@ const CourseDetails = () => {
   return (
     <>
       <Helmet>
-        <title>{course.title} | IyalX</title>
+        <title>{course.title} | Iyal</title>
         <meta name="description" content={course.description} />
       </Helmet>
 
