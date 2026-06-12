@@ -12,10 +12,10 @@ const Footer = () => {
           <div className="space-y-4">
             <Link to="/" className="flex items-center gap-2">
               <div className="w-8 h-8 rounded-lg bg-gradient-to-br from-primary to-secondary flex items-center justify-center text-white font-bold shadow-lg">
-                IX
+                ITS
               </div>
               <span className="font-poppins font-bold text-xl tracking-tight">
-                Iyal<span className="text-secondary">X</span>
+                Iyal<span className="text-secondary"> Tech</span>
               </span>
             </Link>
             <p className="text-gray-400 text-sm leading-relaxed">
@@ -69,15 +69,15 @@ const Footer = () => {
             <ul className="space-y-4 text-sm text-gray-400">
               <li className="flex items-start gap-3">
                 <MapPin size={18} className="text-primary shrink-0 mt-0.5" />
-                <span>123 Tech Park, Software Valley, Innovation City, 500081</span>
+                <span>Iyal Tech Solution, 49, Thomas Street, Oppo to Noyes School, Narimedu Madurai</span>
               </li>
               <li className="flex items-center gap-3">
                 <Phone size={18} className="text-primary shrink-0" />
-                <span>+91 98765 43210</span>
+                <span>+91 9486486597</span>
               </li>
               <li className="flex items-center gap-3">
                 <Mail size={18} className="text-primary shrink-0" />
-                <span>hello@iyal.com</span>
+                <span>iyaltechsolutions@gmail.com</span>
               </li>
             </ul>
           </div>

@@ -41,10 +41,10 @@ const Navbar = () => {
           {/* Logo */}
           <Link to="/" className="flex items-center gap-2">
             <div className="w-10 h-10 rounded-xl bg-gradient-to-br from-primary to-secondary flex items-center justify-center text-white font-bold text-xl shadow-lg shadow-primary/30">
-              IX
+              ITS
             </div>
             <span className="font-poppins font-bold text-2xl tracking-tight">
-              Iyal<span className="text-secondary">X</span>
+              Iyal<span className="text-secondary"> Tech</span>
             </span>
           </Link>
 
